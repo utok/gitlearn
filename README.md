@@ -1,3 +1,7 @@
 # gitlearn
-my learning journey
-start again
+how to setup git, visual code, python
+
+install python
+install visual code 
+install git
+
